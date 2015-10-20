@@ -1,0 +1,73 @@
+# Header
+menu:
+  主页: /
+  所有文章: /archives
+  # 随笔: /tags/随笔
+  标签云: /tags
+  关于我: /about
+
+# SubNav
+subnav:
+  github: "#"
+  weibo: "#"
+  rss: "#"
+  zhihu: "#"
+  #douban: "#"
+  #mail: "#"
+  #facebook: "#"
+  #google: "#"
+  #twitter: "#"
+  #linkedin: "#"
+
+rss: /atom.xml
+
+# true: 个性图片背景, false: 淳朴灰白背景
+background_image: true
+
+# Content
+excerpt_link: more
+fancybox: true
+mathjax: true
+
+# 是否开启动画效果
+animate: true
+
+# 是否在新窗口打开链接
+open_in_new: false
+
+# Miscellaneous
+#google_analytics: ''
+favicon: /favicon.png
+
+#你的头像url
+avatar: /img/avatar.png
+
+#是否开启分享
+share: true
+
+#若使用disqus，请在博客config文件中填写disqus_shortname，并关闭多说评论
+#是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
+#注册多说后，地址前面的就是你的 duoshuo-key http://duoshuo-key.duoshuo.com
+#duoshuo:
+
+#是否开启云标签
+tagcloud: true
+
+#是否开启友情链接
+#不开启——
+#friends: false
+#开启——
+friends:
+  Hexo: https://hexo.io
+  GitHub: https://pages.github.com/
+  MOxFIVE: http://moxfive.xyz/
+
+#是否开启“关于我”。
+#不开启——
+#aboutme: false
+#开启——
+aboutme: 第N个博客，这次在Github
+
+#是否显示边栏中的搜索框
+#Search Box in left column
+#search_box: true
